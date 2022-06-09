@@ -1,1 +1,14 @@
-
+{
+  "Title": "Conditions and Wishes - page not found (error 404)",
+  "Steps": [
+    {
+      "step_1": "Open main page",
+      "step_2": "Sroll the page to the buttom menu",
+      "step_3": "Find the block Buyers",
+      "step_4": "Open section Conditions and Wishes"
+    }]
+  "Result": "The page opens with error 404 (page not found)",
+  "Expected_result": "The page Conditions and Wishes opens",
+  "Type_of_bug": "Functional",
+  "Severity": "Critial",
+}
